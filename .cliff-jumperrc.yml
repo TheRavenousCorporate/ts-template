@@ -2,5 +2,5 @@ name: ts-template
 packagePath: .
 org: theravenouscorporate
 monoRepo: false
-commitMessageTemplate: 'chore(release): release {{new-version}}'
+commitMessageTemplate: "chore(release): release {{new-version}}"
 tagTemplate: v{{new-version}}
